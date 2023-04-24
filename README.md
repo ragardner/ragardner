@@ -4,7 +4,7 @@
 
 ----
 
-**⚡ I am an aspiring coder and creater of the Python library [tksheet](https://github.com/ragardner/tksheet).**
+**⚡ I am an aspiring coder and creator of the Python library [tksheet](https://github.com/ragardner/tksheet).**
 
 **🌱 I write Python code and I'm learning web development. 🌳**
 
