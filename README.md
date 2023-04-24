@@ -8,6 +8,4 @@
 
 **🌱 I write Python code and I'm learning web development. 🌳**
 
-**📧 You can reach me at github@ragardner.simplelogin.com.**
-
 **☕ If you've found my work useful and would like to buy me a coffee you can do so [here](https://www.buymeacoffee.com/ragardner).**
