@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/ragardner/ragardner/main/banner.jpg)
-
 ### **Hi there** ✋
 
 ----
